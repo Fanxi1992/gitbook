@@ -9,6 +9,8 @@ coverY: 0
 
 {% hint style="info" %}
 **左上角“≡”点开目录，打开宝库！**
+
+**本站需梯访问，**[**点击获取。**](https://ant.aff008.shop/)****
 {% endhint %}
 
 ### 1.交易大所\[最高省 65% 手续费] [注册教程](bi-quan-ren-bi-bei-wang-zhi-dao-hang/1.-jiao-yi-suo-zhu-ce-jiao-cheng.md)
@@ -153,6 +155,6 @@ coverY: 0
 * 下载：[谷歌商店](https://www.youtube.com/watch?v=U9nexmTt4kw)、[苹果海外ID](https://taohao.me/)
 * A   I：[ChatGPT官网 ](https://chat.openai.com/) **** [注册教程](https://mirror.xyz/boxchen.eth/9O9CSqyKDj4BKUIil7NC1Sa1LJM-3hsPqaeW\_QjfFBc)
 * 买号：[<mark style="color:yellow;">淘号网</mark>](https://taohao.me/) \[购买香港苹果ID、Google电话号]
-* 梯子：XXXX
+* 梯子：[蚂蚁加速器](https://ant.aff008.shop/)
 * 接码：[SMS-activate](https://sms-activate.org/)
 
