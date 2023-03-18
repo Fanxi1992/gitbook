@@ -6,5 +6,5 @@ DID赛道很多人不知道有哪些，主要就是下面的，上了币安的�
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (14).png>)
 

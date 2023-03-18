@@ -12,7 +12,7 @@
 
 按照说明注册账户
 
-![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (14) (1) (1).png>)
 
 #### 成本
 
