@@ -26,7 +26,7 @@ coverY: 0
 {% hint style="info" %}
 币圈资讯神器：[<mark style="color:yellow;">律动BlockBeats</mark> ](https://www.theblockbeats.info/)\[全球资讯 投研机会]
 
-<mark style="color:green;"></mark>[<mark style="color:green;">近期热点赛道分析（持续更新中...）</mark>](bi-quan-ren-bi-bei-wang-zhi-dao-hang/5.-jin-qi-re-dian-ji-hui-chi-xu-geng.md)<mark style="color:green;"></mark>
+<mark style="color:green;"></mark>[<mark style="color:green;">近期热点赛道分析（持续更新中...）</mark>](bi-quan-ren-bi-bei-wang-zhi-dao-hang/5.-jin-qi-re-dian-guan-zhu-chi-xu-geng.md)<mark style="color:green;"></mark>
 {% endhint %}
 
 ### 2.炒币基础工具 使用教程
