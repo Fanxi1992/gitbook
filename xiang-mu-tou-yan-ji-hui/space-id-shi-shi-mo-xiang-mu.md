@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
----
-
 # Space ID是什么项目
 
 3 月 16 日，Binance 官方公告即将上线第 30 个 Launchpad 项目 Binance Launchpad 将上线 Space ID（ID），并开启 BNB 专场，此次售卖将基于投入模式，Binance 将根据用户 5 日的 BNB 日平均持仓确定用户可投入额度。BNB 持仓快照周期为 2023 年 03 月 17 日上午 08:00 至 2023 年 03 月 22 日上午 08:00（东八区时间）。
