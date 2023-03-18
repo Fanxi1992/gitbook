@@ -6,7 +6,7 @@
   * [3.新手：买币、做单指南](bi-quan-ren-bi-bei-wang-zhi-dao-hang/3.-xin-shou-mai-bi-zuo-dan-zhi-nan.md)
   * [4.从韭菜到大神的10个工具](bi-quan-ren-bi-bei-wang-zhi-dao-hang/4.-cong-jiu-cai-dao-da-shen-de-10-ge-gong-ju.md)
   * [5.近期热点关注（持续更）](bi-quan-ren-bi-bei-wang-zhi-dao-hang/5.-jin-qi-re-dian-guan-zhu-chi-xu-geng.md)
-  * [6.交流群持续开放中](bi-quan-ren-bi-bei-wang-zhi-dao-hang/6.-jiao-liu-qun-chi-xu-kai-fang-zhong.md)
+  * [6.加入CryptoInfo讨论群](bi-quan-ren-bi-bei-wang-zhi-dao-hang/6.-jia-ru-cryptoinfo-tao-lun-qun.md)
 
 ## ♨ 热门赛道整理
 
