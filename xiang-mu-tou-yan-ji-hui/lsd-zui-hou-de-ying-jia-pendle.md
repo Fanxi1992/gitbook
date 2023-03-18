@@ -6,7 +6,7 @@
 
 首先，Pendle 将产生收益的代币打包成 SY（标准化收益代币），然后 SY 被分成本金和收益两部分，分别是 PT（本金代币）和 YT（收益代币），它们分别可以通过定制的 V2 AMM 进行交易。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 在传统金融中，机构参与者依靠各种对冲策略来保护他们的头寸，例如未来收益率合约，Pendle 旨在将巨大的衍生品市场（名义价值超过 400 万亿美元）纳入 DeFi 范畴。
 

@@ -18,6 +18,9 @@
 * [💻 AI 赛道](re-men-sai-dao-zheng-li/ai-sai-dao.md)
 * [🔏 隐私赛道](re-men-sai-dao-zheng-li/yin-si-sai-dao.md)
 * [🪙 稳定币赛道](re-men-sai-dao-zheng-li/wen-ding-bi-sai-dao.md)
+* [⚛ 更多赛道...](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../README.md)
+  * [DID社交赛道](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../did-she-jiao-sai-dao.md)
+  * [元宇宙](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../yuan-yu-zhou.md)
 
 ## 📕 项目投研机会
 
