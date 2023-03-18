@@ -80,7 +80,7 @@
     可用以下币种
 * Cash Back
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ####
 
