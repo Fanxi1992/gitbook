@@ -42,10 +42,12 @@
 ## 🔆 重点大毛零撸指南
 
 * [Zksync](zhong-dian-da-mao-ling-lu-zhi-nan/zksync.md)
-* [Taiko](zhong-dian-da-mao-ling-lu-zhi-nan/taiko.md)
+* [Sui](zhong-dian-da-mao-ling-lu-zhi-nan/sui.md)
 * [Scroll](zhong-dian-da-mao-ling-lu-zhi-nan/scroll.md)
-* [Fuel](zhong-dian-da-mao-ling-lu-zhi-nan/fuel.md)
-* [更多大毛教程](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng.md)
+* [lens](zhong-dian-da-mao-ling-lu-zhi-nan/lens.md)
+* [StarkNet](zhong-dian-da-mao-ling-lu-zhi-nan/starknet.md)
+* [更多大毛教程](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/README.md)
+  * [Aleo](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/aleo.md)
 
 ## 🆙 指标量化专区
 
