@@ -8,7 +8,7 @@ Taproot Wizard 官方在社交媒体分享创始人 Udi Wertheimer 的心路历�
 
 Taproot Wizard 的形象是一个穿着紫色袍子、手持魔杖的光头巫师，搭配上醒目的手绘艺术，Taproot Wizard 刻意将 NFT 设计成这样，正是为了致敬比特币社区的经典梗——比特币巫师。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 比特币巫师形象最早出现在 2013 年 2 月，当时 /r/Bitcoin 的管理员 theymos 征集社区广告的创意。不过 1 小时，一位名为 /u/mavensbot 的朋友提交了这幅名为《Magic Internet Money Wizard》的作品。富有创意的绘画风格、抓人眼球的图片设计、简单直接的文化标语，很快就成为了论坛内最受欢迎的答案。
 
