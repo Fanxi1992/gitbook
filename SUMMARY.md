@@ -55,6 +55,7 @@
 
 ## 📣 币圈生存工具
 
+* [冷钱包盘点](bi-quan-sheng-cun-gong-ju/leng-qian-bao-pan-dian.md)
 * [加密资产安全](bi-quan-sheng-cun-gong-ju/jia-mi-zi-chan-an-quan.md)
 * [翻译](bi-quan-sheng-cun-gong-ju/fan-yi.md)
 * [谷歌账户技巧 & Gmail](bi-quan-sheng-cun-gong-ju/gu-ge-zhang-hu-ji-qiao-gmail.md)
