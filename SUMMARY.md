@@ -5,8 +5,12 @@
   * [2.如何顺利下载交易所](bi-quan-ren-bi-bei-wang-zhi-dao-hang/2.-ru-he-shun-li-xia-zai-jiao-yi-suo.md)
   * [3.新手：买币、做单指南](bi-quan-ren-bi-bei-wang-zhi-dao-hang/3.-xin-shou-mai-bi-zuo-dan-zhi-nan.md)
   * [4.从韭菜到大神的10个工具](bi-quan-ren-bi-bei-wang-zhi-dao-hang/4.-cong-jiu-cai-dao-da-shen-de-10-ge-gong-ju.md)
-  * [5.CryptoInfo财富频道](bi-quan-ren-bi-bei-wang-zhi-dao-hang/5.cryptoinfo-cai-fu-pin-dao.md)
-  * [6.CryptoInfo的朋友们](bi-quan-ren-bi-bei-wang-zhi-dao-hang/6.cryptoinfo-de-peng-you-men.md)
+
+## 💰 最新财富密码
+
+* [CryptoInfo资讯频道](zui-xin-cai-fu-mi-ma/cryptoinfo-zi-xun-pin-dao.md)
+* [CryptoInfo技术频道](zui-xin-cai-fu-mi-ma/cryptoinfo-ji-shu-pin-dao.md)
+* [加入讨论群](zui-xin-cai-fu-mi-ma/jia-ru-tao-lun-qun.md)
 
 ## ♨ 热门赛道整理
 
@@ -33,7 +37,7 @@
   * [2023年3月集](xiang-mu-tou-yan-ji-hui/wang-qi-tou-yan/2023-nian-3-yue-ji/README.md)
     * [第11周](xiang-mu-tou-yan-ji-hui/wang-qi-tou-yan/2023-nian-3-yue-ji/di-11-zhou.md)
 
-## 💰 派网网格交易专区
+## 🛩 派网网格交易专区
 
 * [网格自动撸波段原理](pai-wang-wang-ge-jiao-yi-zhuan-qu/wang-ge-zi-dong-lu-bo-duan-yuan-li.md)
 * [派网网格策略参数选择](pai-wang-wang-ge-jiao-yi-zhuan-qu/pai-wang-wang-ge-ce-lve-can-shu-xuan-ze.md)
