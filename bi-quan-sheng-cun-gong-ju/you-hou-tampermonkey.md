@@ -30,6 +30,6 @@ Tampermonkey（油猴）是一个非常好用的自动化脚本插件，我个�
 
 翻译效果如下图：
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **可点击被翻译页面右上角的“译”字进行翻译设置，可将“不翻译中文”勾选上，这样脚本就不会把页面中的中文再翻译一遍，减少不必要信息。**

@@ -14,7 +14,7 @@ Taproot Wizard 的形象是一个穿着紫色袍子、手持魔杖的光头巫�
 
 后来，这个图像被选中作为 /r/Bitcoin 论坛的正式宣传图，并在 Reddit 上投放了一段时间。简单洗脑的设计为 /r/Bitcoin 论坛带来了许多流量，越来越多的人点进去，想看看这个「不太像广告的广告」到底想表达、代表什么。许多人也因此知道、了解、购买、传播了比特币。值得一提的是：那时候的比特币，还只有 287 美元。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 似乎是这次宣传的功劳， 2013 年 11 月 29 日。/r/Bitcoin 论坛拥有约 74, 000 名订阅者，增长 36% ，同时，比特币以「 1132 美元」的价格创下历史新高，一度破圈引起注意。
 

@@ -51,7 +51,8 @@
 * [lens](zhong-dian-da-mao-ling-lu-zhi-nan/fuel.md)
 * [StarkNet](zhong-dian-da-mao-ling-lu-zhi-nan/starknet.md)
 * [更多大毛教程](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng.md)
-  * [Aleo](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/aleo.md)
+  * [Aleo交互潜在空投](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/aleo-jiao-hu-qian-zai-kong-tou.md)
+  * [Shardeum交互潜在空投](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/shardeum-jiao-hu-qian-zai-kong-tou.md)
 
 ## 🆙 指标量化专区
 

@@ -32,7 +32,7 @@ Ledger主打两款产品，NanoX是最新产品，可以看到它标识的是Fre
 
 第二名Trezor特雷佐，总部位于捷克共和国的首府布拉格。Trezor是中本聪实验室公司旗下的一个旗舰产品，目前主打ModelT和Model One两款产品，其中Model one号称是史上第一个BTC硬件钱包，诞生于2014年。除了接收和传送BTC以外，Trezor钱包可以在完全隔离网络的情况下生成并且存储私钥，确保黑客没有办法偷走你的加密资产，也是业界的十年老店了。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 三、SafePal S1
 

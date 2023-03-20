@@ -102,7 +102,7 @@
 
 ![](<../.gitbook/assets/image (19).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 把国家和地址给客服就好了；
 

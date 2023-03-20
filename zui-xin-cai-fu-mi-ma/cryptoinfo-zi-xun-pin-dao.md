@@ -2,7 +2,7 @@
 description: 包括重要时间节点、热点赛道项目、有潜力币种分析等
 ---
 
-# 5.CryptoInfo财富频道
+# CryptoInfo资讯频道
 
 
 
@@ -74,7 +74,7 @@ https://www.theblockbeats.info/news/35629
 
 从历史上看，BTC 即将打破其下降趋势以确认新的牛市，而从下降趋势突破到牛市顶部需要大约 900 天。我们正在见证历史！
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 {% endhint %}
 
 
