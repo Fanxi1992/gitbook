@@ -7,6 +7,58 @@ description: 包括重要时间节点、热点赛道项目、有潜力币种分�
 
 
 {% hint style="info" %}
+编辑于2023.03.21
+
+**#消息早报**
+
+<mark style="color:yellow;">综合资讯</mark>&#x20;
+
+Binance定于3月24日1:00上架 Arbitrum！&#x20;
+
+https://www.theblockbeats.info/flash/134205
+
+以太坊主网将于4月12日进行Shapella升级！&#x20;
+
+https://www.odaily.news/post/5185860
+
+Lido V2预计于5月中旬上线！&#x20;
+
+https://www.odaily.news/post/5185860
+
+SPACE ID修改快照时间并增加空投数量！&#x20;
+
+https://foresightnews.pro/news/detail/19717
+
+如何通过 MVRV 判断加密牛市还是熊市？&#x20;
+
+https://followin.io/zh-Hans/feed/3483702
+
+
+
+<mark style="color:yellow;">热点项目</mark>&#x20;
+
+一文读懂发展最快的DeFi项目——GNS！&#x20;
+
+https://followin.io/zh-Hans/feed/3481957
+
+市场下一个爆点会是隐私版块吗？&#x20;
+
+https://followin.io/zh-Hans/feed/3486119
+
+Abritrum之后别再错过的7个低市值的项目！ https://news.marsbit.co/20230320135043241881.html
+
+解读Synthetix V3：$SNX的机会何在？&#x20;
+
+https://followin.io/zh-Hans/feed/3485018
+
+$Arb即将上线，盘点Arbitrum生态创新项目！&#x20;
+
+https://followin.io/zh-Hans/feed/3482568
+{% endhint %}
+
+
+
+{% hint style="info" %}
 编辑于2023.03.20
 
 **#消息早报**&#x20;
