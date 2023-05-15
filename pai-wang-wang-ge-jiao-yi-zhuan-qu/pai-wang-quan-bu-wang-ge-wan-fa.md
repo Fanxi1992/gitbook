@@ -18,6 +18,5 @@ description: 解锁全部玩法，释放资金效率
 
 ![](../.gitbook/assets/5162e9bd93a260c6b179b2a7457b8af.jpg)
 
-<mark style="color:yellow;">****</mark>[<mark style="color:yellow;">**点击注册，**</mark>](https://www.picolzh.com/zh-CN/sign/ref/n75MZTL2)**现在开启你的365天\*24h不间断的USDT印钞之旅吧！**
+[<mark style="color:yellow;">**点击注册，**</mark>](https://www.picolzh.com/zh-CN/sign/ref/n75MZTL2)**现在开启你的365天\*24h不间断的USDT印钞之旅吧！**
 
-<mark style="color:yellow;">****</mark>

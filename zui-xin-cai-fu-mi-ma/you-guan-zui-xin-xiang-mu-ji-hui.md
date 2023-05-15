@@ -1,8 +1,34 @@
 ---
-description: 包括重要时间节点、热点赛道项目、有潜力币种分析等
+description: 过去24小时市场热点资讯、潜力项目洞察、行情分析等
 ---
 
-# CryptoInfo资讯频道
+# 🚀 油管最新项目机会
+
+
+
+### <mark style="color:yellow;">2023.05.15</mark>&#x20;
+
+SRC-20铸造MINT详细教程！拳打BRC-20，脚踢ORC-20的SRC-20到底是个啥？
+
+{% embed url="https://www.youtube.com/watch?v=Y7bOcOZ5n-0&t=200s" %}
+
+### <mark style="color:yellow;">2023.05.12</mark> &#x20;
+
+ORC-20铸造mint完整教程，Brc-20还是Orc-20？我全都要！
+
+{% embed url="https://www.youtube.com/watch?v=bhD06wGXjuE&t=1s" %}
+
+
+
+### <mark style="color:yellow;">2023.05.10</mark> &#x20;
+
+LTC20的MINT LTC大概还有80天就要减半了，很有可能是下一个千倍的目标。
+
+{% embed url="https://www.youtube.com/watch?v=HjT2-67-eGU&t=4s" %}
+
+
+
+
 
 
 
@@ -55,6 +81,10 @@ $Arb即将上线，盘点Arbitrum生态创新项目！&#x20;
 
 https://followin.io/zh-Hans/feed/3482568
 {% endhint %}
+
+
+
+
 
 
 

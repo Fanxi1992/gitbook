@@ -8,34 +8,23 @@
 
 ## 💰 最新财富密码
 
-* [CryptoInfo资讯频道](zui-xin-cai-fu-mi-ma/cryptoinfo-zi-xun-pin-dao.md)
-* [CryptoInfo技术频道](zui-xin-cai-fu-mi-ma/cryptoinfo-ji-shu-pin-dao.md)
-* [加入讨论群](zui-xin-cai-fu-mi-ma/jia-ru-tao-lun-qun.md)
+* [🚀 油管最新项目机会](zui-xin-cai-fu-mi-ma/you-guan-zui-xin-xiang-mu-ji-hui.md)
+* [🏠 深瞳和他即将自由的朋友们](zui-xin-cai-fu-mi-ma/shen-tong-he-ta-ji-jiang-zi-you-de-peng-you-men.md)
 
 ## ♨ 热门赛道整理
 
+* [💥 BRC-20生态](re-men-sai-dao-zheng-li/brc20-sheng-tai.md)
 * [🇭🇰 香港版块](re-men-sai-dao-zheng-li/xiang-gang-ban-kuai.md)
 * [🍕 比特币生态](re-men-sai-dao-zheng-li/bi-te-bi-sheng-tai.md)
 * [💨 LSD上海升级](re-men-sai-dao-zheng-li/lsd-shang-hai-sheng-ji.md)
 * [🥈 Arbitrum生态](re-men-sai-dao-zheng-li/arbitrum-sheng-tai.md)
 * [🏈 ZK-EVM赛道](re-men-sai-dao-zheng-li/zkevm-sai-dao.md)
 * [💻 AI 赛道](re-men-sai-dao-zheng-li/ai-sai-dao.md)
-* [🔏 隐私赛道](re-men-sai-dao-zheng-li/yin-si-sai-dao.md)
-* [🪙 稳定币赛道](re-men-sai-dao-zheng-li/wen-ding-bi-sai-dao.md)
 * [⚛ 更多赛道...](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../README.md)
   * [DID社交赛道](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../did-she-jiao-sai-dao.md)
   * [元宇宙](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../yuan-yu-zhou.md)
-
-## 📕 项目投研机会
-
-* [读懂Taproot Wizard：比特币原生Meme NFT](xiang-mu-tou-yan-ji-hui/du-dong-taproot-wizard-bi-te-bi-yuan-sheng-meme-nft.md)
-* [Space ID是什么项目](xiang-mu-tou-yan-ji-hui/space-id-shi-shi-mo-xiang-mu.md)
-* [5大真实收益DeFi项目](xiang-mu-tou-yan-ji-hui/5-da-zhen-shi-shou-yi-defi-xiang-mu.md)
-* [Scroll，后来者居上？](xiang-mu-tou-yan-ji-hui/scroll-hou-lai-zhe-ju-shang.md)
-* [LSD最后的赢家：Pendle ？](xiang-mu-tou-yan-ji-hui/lsd-zui-hou-de-ying-jia-pendle.md)
-* [🗑 往期投研](xiang-mu-tou-yan-ji-hui/wang-qi-tou-yan/README.md)
-  * [2023年3月集](xiang-mu-tou-yan-ji-hui/wang-qi-tou-yan/2023-nian-3-yue-ji/README.md)
-    * [第11周](xiang-mu-tou-yan-ji-hui/wang-qi-tou-yan/2023-nian-3-yue-ji/di-11-zhou.md)
+  * [稳定币赛道](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../wen-ding-bi-sai-dao.md)
+  * [隐私赛道](re-men-sai-dao-zheng-li/geng-duo-sai-dao-.../yin-si-sai-dao.md)
 
 ## 🛩 派网网格交易专区
 
@@ -43,20 +32,9 @@
 * [派网网格策略参数选择](pai-wang-wang-ge-jiao-yi-zhuan-qu/pai-wang-wang-ge-ce-lve-can-shu-xuan-ze.md)
 * [派网全部网格玩法](pai-wang-wang-ge-jiao-yi-zhuan-qu/pai-wang-quan-bu-wang-ge-wan-fa.md)
 
-## 🔆 重点大毛零撸指南
-
-* [Zksync](zhong-dian-da-mao-ling-lu-zhi-nan/zksync.md)
-* [Sui](zhong-dian-da-mao-ling-lu-zhi-nan/taiko.md)
-* [Scroll](zhong-dian-da-mao-ling-lu-zhi-nan/scroll.md)
-* [lens](zhong-dian-da-mao-ling-lu-zhi-nan/fuel.md)
-* [StarkNet](zhong-dian-da-mao-ling-lu-zhi-nan/starknet.md)
-* [更多大毛教程](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng.md)
-  * [Aleo交互潜在空投](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/aleo-jiao-hu-qian-zai-kong-tou.md)
-  * [Shardeum交互潜在空投](zhong-dian-da-mao-ling-lu-zhi-nan/geng-duo-da-mao-jiao-cheng/shardeum-jiao-hu-qian-zai-kong-tou.md)
-
 ## 🆙 指标量化专区
 
-* [交易指标&策略分享](zhi-biao-liang-hua-zhuan-qu/jiao-yi-zhi-biao-ce-lve-fen-xiang.md)
+* [加密量化交易策略分享](zhi-biao-liang-hua-zhuan-qu/jia-mi-liang-hua-jiao-yi-ce-lve-fen-xiang.md)
 
 ## 📣 币圈生存工具
 

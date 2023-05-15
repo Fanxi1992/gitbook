@@ -10,13 +10,13 @@ coverY: 0
 {% hint style="info" %}
 **左上角“≡”点开目录，打开宝库！**
 
-**本站需梯访问，**[**点击获取。**](https://ant.aff008.shop/)****
+**本站需梯访问，**[**点击获取。**](https://ant.aff008.shop/)
 {% endhint %}
 
 ### 1.交易大所\[最高省 65% 手续费] [注册教程](bi-quan-ren-bi-bei-wang-zhi-dao-hang/1.-jiao-yi-suo-zhu-ce-jiao-cheng.md)
 
-* <mark style="color:yellow;"></mark>[<mark style="color:yellow;">币安：</mark>](https://accounts.binance.com/zh-CN/register?ref=U7OKR30O)第一大所，大资金优先
-* <mark style="color:yellow;"></mark>[<mark style="color:yellow;">欧易：</mark>](https://www.okx.com/cn/join/cryptoinfo)国人大所，出入金方便
+* [<mark style="color:yellow;">币安：</mark>](https://accounts.binance.com/zh-CN/register?ref=U7OKR30O)第一大所，大资金优先
+* [<mark style="color:yellow;">欧易：</mark>](https://www.okx.com/cn/join/cryptoinfo)国人大所，出入金方便
 * [Gate：](https://www.gate.io/zh/signup/13171690/76)老牌大所，直播跟单丝滑
 * [抹茶：](https://www.mexc.com/zh-CN/register?inviteCode=1SGm4)打新必备，送打新机器人
 * [BKEX：](https://www.bkex.com/register/HLLDTSL7)保本跟单，玩法多元
@@ -26,7 +26,7 @@ coverY: 0
 {% hint style="info" %}
 币圈资讯神器：[<mark style="color:yellow;">律动BlockBeats</mark> ](https://www.theblockbeats.info/)\[全球资讯 投研机会]
 
-<mark style="color:green;"></mark>[<mark style="color:green;">近期热点赛道分析（持续更新中...）</mark>](zui-xin-cai-fu-mi-ma/cryptoinfo-zi-xun-pin-dao.md)<mark style="color:green;"></mark>
+[<mark style="color:green;">近期热点赛道分析（持续更新中...）</mark>](zui-xin-cai-fu-mi-ma/you-guan-zui-xin-xiang-mu-ji-hui.md)
 {% endhint %}
 
 ### 2.炒币基础工具 使用教程
@@ -117,7 +117,7 @@ coverY: 0
 
 **（2）**[**Yearn**](https://yearn.finance/)**：**收益聚合器
 
-****
+
 
 ### 4.NFT赛道工具 使用教程
 
@@ -150,10 +150,10 @@ coverY: 0
 
 ### 6.其他工具
 
-* 聊天：[<mark style="color:yellow;">推特</mark>](https://twitter.com/)、[<mark style="color:yellow;">电报</mark>](https://www.telegram.org/)、[discord](https://discord.com/)、[<mark style="color:yellow;">Mosgram（中文电报）</mark>](https://www.mosgram.com/)<mark style="color:yellow;"></mark>
+* 聊天：[<mark style="color:yellow;">推特</mark>](https://twitter.com/)、[<mark style="color:yellow;">电报</mark>](https://www.telegram.org/)、[discord](https://discord.com/)、[<mark style="color:yellow;">Mosgram（中文电报）</mark>](https://www.mosgram.com/)
 * 浏览：[<mark style="color:yellow;">谷歌浏览器</mark>](https://www.google.com/chrome/)、[youtube](https://www.youtube.com/)、[Mirror](https://mirror.xyz/)
 * 下载：[谷歌商店](https://www.youtube.com/watch?v=U9nexmTt4kw)、[苹果海外ID](https://taohao.me/)
-* A   I：[ChatGPT官网 ](https://chat.openai.com/) **** [注册教程](https://mirror.xyz/boxchen.eth/9O9CSqyKDj4BKUIil7NC1Sa1LJM-3hsPqaeW\_QjfFBc)
+* A   I：[ChatGPT官网 ](https://chat.openai.com/) [注册教程](https://mirror.xyz/boxchen.eth/9O9CSqyKDj4BKUIil7NC1Sa1LJM-3hsPqaeW\_QjfFBc)
 * 买号：[<mark style="color:yellow;">淘号网</mark>](https://taohao.me/) \[购买香港苹果ID、Google电话号]
 * 梯子：[蚂蚁加速器](https://ant.aff008.shop/)
 * 接码：[SMS-activate](https://sms-activate.org/)
